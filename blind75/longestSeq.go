@@ -1,3 +1,5 @@
+package blind75
+
 func longestConsecutive(nums []int) int {
 	// make a map of each value
 
